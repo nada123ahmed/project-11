@@ -2,7 +2,7 @@
 
 import React, { useState } from 'react';
 import { Link } from 'react-router-dom';
-import './Navbar.css';
+import './NavBar.css';
 import IconCart from '../../../public/images/icon-cart.svg';
 import Avatar from '../../../public/images/image-avatar.png';
 import IconMenu from '../../../public/images/icon-menu.svg';
